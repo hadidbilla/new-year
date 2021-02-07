@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(/image/pic.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 730px;
+  color: white;
+}
+.time {
+  padding-top: 100px;
+}
